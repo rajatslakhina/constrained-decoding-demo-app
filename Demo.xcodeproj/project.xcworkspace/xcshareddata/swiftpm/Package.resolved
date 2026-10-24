@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "constrained-decoding-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajatslakhina/constrained-decoding-kit.git",
+      "state" : {
+        "revision" : "258e9613be54f4e5750be11b4e7d2464425105b0",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
